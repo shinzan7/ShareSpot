@@ -53,7 +53,7 @@ BE or FE-기능
 
 ### 1) 회원가입
 
-<img width=30% src="/uploads/61c004a8ee354da4cbe984a5b5bd30b0/회원가입.jpg">
+<img width=30% src="https://user-images.githubusercontent.com/97588187/204293466-bfb9a590-6221-4c6f-878b-0823db02e4d0.jpg">
 <p>각 항목의 유효성 검사를 만족하면, 회원 가입이 완료됩니다.</p>
 
 ### 2) 로그인
